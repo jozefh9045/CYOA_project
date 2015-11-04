@@ -1,3 +1,3 @@
-##cave end
+##Cave's End
 ---
-[eat candy](diabeetus.md) [just down](fall_damage.md)
+[Jump Into Lake](fall_damage.md) [Eat Candy](diabeetus.md)

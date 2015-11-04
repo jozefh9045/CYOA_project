@@ -1,3 +1,3 @@
-##hot air bloon
+##Hot Air Balloon
 ---
-[git into hot air balloon](fly_away.md) [cave entrance](cave_entrance.md)
+[Fly Away](fly_away.md) [Fly To Cave Entrance](cave_entrance.md)

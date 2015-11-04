@@ -1,4 +1,3 @@
 ##Wolves Ending
 ---
-
-[Try Again?](start.)
+[Try Again?](start.md)

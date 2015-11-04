@@ -1,3 +1,3 @@
-##diabeetus
+##Diabeetus Ending
 ---
-(end)
+[Try Again?](start.md)

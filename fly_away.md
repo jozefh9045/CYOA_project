@@ -1,3 +1,3 @@
-##cave end
+##Fly Away Ending
 ---
-(end)
+[Try Again?](start.md)
