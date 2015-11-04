@@ -1,3 +1,3 @@
-##hot air bloon
+##open eyes
 ---
-[keep eyes closed](wolves.md) [cave entrance](cave_entrance.md)
+[move forward](forest.md)
