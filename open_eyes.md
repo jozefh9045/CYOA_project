@@ -1,3 +1,3 @@
-##Forest
+##hot air bloon
 ---
-[Okay](forest.md)
+[keep eyes closed](fly_away.md) [cave entrance](cave_entrance.md)
