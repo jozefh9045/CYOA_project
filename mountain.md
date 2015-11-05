@@ -1,3 +1,3 @@
-##mountain.md
+##Mountain
 ---
-[go back](forest.md) [forward](hot_air_balloon.md)
+[Go Back](forest.md) [Forward](hot_air_balloon.md)
