@@ -10,6 +10,6 @@ small path down below. You are left with the decisions to jump down into the
 uncertain water or stay put. If you stay put you can also try the candy rocks in  
 the ground. 
 
-[Jump into the stream down bellow](endings/fall_damage.md)  
+[Jump into the stream down bellow.](endings/fall_damage.md)  
 
-[Stay put and eat the candy](endingsdiabeetus.md)
+[Stay put and eat the candy.](endingsdiabeetus.md)

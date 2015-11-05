@@ -15,6 +15,6 @@ make the jump down to get to the cave or you can take your chances with the stee
 mountains. 
 
 
-[Inflate the balloon and take your chances with the mountain](endings/fly_away.md)  
+[Inflate the balloon and take your chances with the mountain.](endings/fly_away.md)  
 
 [The rocky mountain is much too dangerous, you fly down to the cave.](cave_entrance.md)

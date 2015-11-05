@@ -9,4 +9,4 @@ undergrowth is so think full of plants and roots. So with nowhere else to go, yo
 decide to walk forward into what seems like an opening in the under growth. 
 
 
-[Go into the opening in the undergrowth](forest.md)
+[Go into the opening in the undergrowth.](forest.md)
