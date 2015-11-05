@@ -1,3 +1,3 @@
-##open eyes
+##Open Eyes
 ---
-[move forward](forest.md)
+[Okay](forest.md)
