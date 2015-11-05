@@ -1,7 +1,7 @@
 ##Start
 ---
 
-You feel extremely tired. Your eyes are close and you can smell what seems to   
+You feel extremely tired. Your eyes are closed and you can smell what seems to   
 be a dense frost around you. It smells like the morning dew in the out doors. 
 
 You are very tired and you do not want to open your eyes. You want to keep  
