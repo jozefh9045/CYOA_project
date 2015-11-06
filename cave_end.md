@@ -12,4 +12,4 @@ the ground.
 
 [Jump into the stream down bellow.](endings/fall_damage.md)  
 
-[Stay put and eat the candy.](endingsdiabeetus.md)
+[Stay put and eat the candy.](endings/diabeetus.md)
