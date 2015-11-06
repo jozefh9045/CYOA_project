@@ -10,4 +10,4 @@ sleeping. However you do not know where you are and you also feel like investiga
 
 [Open your eyes and look around.](open_eyes.md)  
 
-[eep your eyes closed.](endings/wolves.md)
+[keep your eyes closed.](endings/wolves.md)
