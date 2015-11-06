@@ -1,7 +1,7 @@
 ##Forest
 ---
 You see a split path where one leads to your left and the other leads to your   
-right. The left path seems to go on forever and in the left path you see acave   
+right. The left path seems to go on forever and in the left path you see a  cave   
 in the distance. You are uncertain which path to take.
 
 [Take the left path.](mountain.md)   
