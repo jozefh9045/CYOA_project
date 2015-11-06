@@ -15,4 +15,4 @@ The wolves apparently don’t like you sleeping here……
 (eaten by wolves)
 
 
-[Try Again?](start.md)
+[Try Again?](../start.md)
