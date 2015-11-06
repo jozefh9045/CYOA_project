@@ -10,8 +10,8 @@ rocks in the almost vertical incline.
 After what seems like hours you pass over the mountain. You can see the sun setting   
 and a beautiful red horizon. The clouds are also not every high over your head   
 anymore. You feel free like you can go anywhere. Suddenly, a huge gush of wind   
-hits the balloon and knocks your over. you head hits the basket  and you lay on   
-the bottom. You take you a moment to regain your senses. 
+hits the balloon and knocks your over. Your head hits the basket  and you lay on   
+the bottom. It takes you a moment to regain your senses. 
 
 You just regained your memories.....
 

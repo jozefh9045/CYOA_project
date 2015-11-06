@@ -1,8 +1,8 @@
 ##Cave's End
 ---
-You are staring to grow desperate. The cave seems to be never ending. The only   
-things you can see are the glowing rocks on the ground. You start to pick up you  
-pace and run though the cave. 
+You are starting to grow desperate. The cave seems to be never ending. The only   
+things you can see are the glowing rocks on the ground. You start to pick up your    
+pace and run through the cave. 
 
 Finally, you stop. You see a drop off in front of you. you look down and see that  
 the drop is very very high. You can also see a small stream running down another  
